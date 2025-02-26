@@ -42,7 +42,7 @@ Here’s how you can install the 64-bit version of GIMP on your Windows machine.
 
 ### Step 1: Download the GIMP 64-bit Installer
 
-1. Visit the official GIMP website: [https://www.gimp.org/downloads/](https://www.gimp.org/downloads/)
+1. Visit the official GIMP website...
 2. On the download page, ensure that you select the **64-bit Windows version**. The website usually auto-detects your system’s architecture, but make sure you choose the correct version based on your system (64-bit in this case).
 
 ### Step 2: Run the Installer
